@@ -46,7 +46,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 Escola Técnica</p>
+    <p>&copy; 2025 - SENAI</p>
   </footer>
 </body>
 </html>
