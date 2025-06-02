@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <title>Contato - Feira Tecnológica</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
 
   <header>
-    <img src="/img/senai.png" alt="">
+    <img src="../img/senai.png" alt="">
     <h1>Contato</h1>
   </header>
 

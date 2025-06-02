@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <title>Cadastro de Palestras</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
 
   <header>
-    <img src="/img/senai.png" alt="">
+    <img src="../img/senai.png" alt="">
     <h1>Cadastro de Palestras</h1>
   </header>
 

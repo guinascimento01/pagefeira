@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Cadastro de Participantes</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
   <script>
     function atualizarCampos() {
       const tipo = document.getElementById("tipo").value;
@@ -15,7 +15,7 @@
 <body>
 
   <header>
-    <img src="/img/senai.png" alt="">
+    <img src="../img/senai.png" alt="">
     <h1>Cadastro de Participantes</h1>
   </header>
 
